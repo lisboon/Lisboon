@@ -22,8 +22,7 @@
 I build backends that survive scale (and team turnover).
 Production work is in **NestJS / TypeScript** with PostgreSQL, Redis, Docker and AWS, applying Clean Architecture and Domain-Driven Design on multi-tenant (B2B) SaaS.
 
-On the side, I explore **game systems programming in Unreal Engine 5 (C++)**: plugin development and editor tooling, like my project Lunaris, a NestJS backend that drives in-engine content in real time.
-
+On the side, I explore **game systems programming in Unreal Engine 5 (C++)**: plugin development and editor tooling.
 
 ---
 
